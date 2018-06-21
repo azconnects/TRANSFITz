@@ -22,27 +22,28 @@
         app:headerLayout="@layout/nav_header_menu"
         app:menu="@menu/activity_menu_drawer" />
 
-   <RelativeLayout
-       android:layout_width="match_parent"
-       android:layout_height="wrap_content"
-       android:gravity="center">
-    <TextView
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="Wait for confirmation of your documents to get live!! Thanks"
-        android:textSize="25sp"
-        android:gravity="center"
-        android:textStyle="bold"
-        android:id="@+id/txt"
-        android:textColor="@color/black"/>
-    <TextView
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="Regards Transfit!!"
-        android:textSize="20sp"
-        android:gravity="center"
-        android:layout_below="@+id/txt"
-        android:textColor="@color/pink"/>
-   </RelativeLayout>
+   <!--<RelativeLayout-->
+       <!--android:layout_width="match_parent"-->
+       <!--android:layout_height="wrap_content"-->
+       <!--android:gravity="center">-->
+    <!--<TextView-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:text="Wait for confirmation of your documents to get live!! Thanks"-->
+        <!--android:textSize="25sp"-->
+        <!--android:gravity="center"-->
+        <!--android:textStyle="bold"-->
+        <!--android:id="@+id/txt"-->
+        <!--android:textColor="@color/black"/>-->
+    <!--<TextView-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:text="Regards Transfit!!"-->
+        <!--android:textSize="20sp"-->
+        <!--android:gravity="center"-->
+        <!--android:layout_below="@+id/txt"-->
+        <!--android:textColor="@color/pink"/>-->
+   <!--</RelativeLayout>-->
+
 
 </android.support.v4.widget.DrawerLayout>
