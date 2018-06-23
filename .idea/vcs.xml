@@ -3,5 +3,6 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/TRANSFIT_PROJECT" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/app/src/main/java/com/example/azconnects/transfit" vcs="Git" />
   </component>
 </project>
